@@ -11,6 +11,8 @@ This project analyzes emerging market salary trends in the tech industry, focusi
 - Infogram: is an online tool for creating and sharing interactive infographics, reports, and charts easily.
 - Infographics: are visual representations of data or information, designed to make complex ideas easier to understand quickly.
 
+Essentially, an infographic is the end product, while Infogram is a tool to create that end product.
+
 ## Data Visualization
 You can interact with the report [here](https://infogram.com/understanding-salary-trend-in-the-tech-industry-1hxj48m3dnxe52v?live)
 
