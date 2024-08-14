@@ -7,9 +7,9 @@
 This project analyzes emerging market salary trends in the tech industry, focusing on job titles and seniority levels. By examining an Indian dataset, we aim to provide valuable insights for career planning and salary negotiations. The data was transformed into a Pivot table using WebDataRocks and visualized with Infogram.
 
 ## Tools
-- WebDataRocks: This is a tool for creating pivot tables to analyze and visualize data in a web browser.
-- Infogram: is an online tool for creating and sharing interactive infographics, reports, and charts easily.
-- Infographics: are visual representations of data or information, designed to make complex ideas easier to understand quickly.
+- **WebDataRocks**: This is a tool for creating pivot tables to analyze and visualize data in a web browser.
+- **Infogram**: is an online tool for creating and sharing interactive infographics, reports, and charts easily.
+- **Infographics**: are visual representations of data or information, designed to make complex ideas easier to understand quickly.
 
 Essentially, an infographic is the end product, while Infogram is a tool to create that end product.
 
